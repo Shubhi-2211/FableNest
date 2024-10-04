@@ -1,0 +1,46 @@
+{
+   "url":"https://m.media-amazon.com/images/I/71dNsRuYL7L._SL1500.jpg",
+  "title":"YOU ONLY LIVE ONCE",
+  "author":"STUTI CHANGLE",
+  "price":250,
+  "desc":"What if you ran away from your life today?Twenty years later, three people are looking for you.One is dying to meet you again.The other wishes you had never met them.The third wishes they could have met you at least once.You are one person. Aren't you? But you are not the same person to each of them.Find the answers about your own life in this story about searching for love and discovering yourself. Join a broken but rising YouTube star Alara, a struggling but hopeful stand-up comedian Aarav, and a zany but zen beach shack owner Ricky. Together, take the journey to seek the truth behind the famous singer Elisha's disappearance somewhere by the deep sea in Goa.Will you be able to find Elisha? Or will you end up finding yourself?",
+  "language": "English"
+},
+{
+   "url":"https://m.media-amazon.com/images/I/71xxddxprOL._SL1250_.jpg",
+  "title":"Days at the Morisaki Bookshop",
+  "author":"Satoshi Yagisawa",
+  "price":399,
+  "desc":"Hidden in Jimbocho, Tokyo is a booklover's paradise. On a quiet corner in an old wooden building lies a shop filled with hundreds of second-hand books.Twenty-five-year-old Takako has never liked reading, although the Morisaki bookshop has been in her family for three generations. It is the pride and joy of her uncle Satoru, who has devoted his life to the bookshop since his wife Momoko left him five years earlier.When Takako's boyfriend reveals he's marrying someone else, she reluctantly accepts her eccentric uncle's offer to live rent-free in the tiny room above the shop.Hoping to nurse her broken heart in peace, Takako is surprised to encounter new worlds within the stacks of books lining the Morisaki bookshop.As summer fades to autumn, Satoru and Takako discover they have more in common than they first thought. The Morisaki bookshop has something to teach them both about life, love, and the healing power of books.",
+  "language": "English"
+},
+{
+   "url":"https://m.media-amazon.com/images/I/813aV273-rL._SL1500_.jpg",
+  "title":"Kunex It Ends With Us :Sometimes The One Who Loves You Is The One Who Hurts You The Most",
+  "author":"Colleen Hoover",
+  "price":499,
+  "desc":"The newest, highly anticipated novel from beloved #1 New York Times bestselling author, Colleen Hoover. Sometimes it is the one who loves you who hurts you the most. Lily hasn?t always had it easy, but that's never stopped her from working hard for the life she wants. She?s come a long way from the small town in Maine where she grew up?she graduated from college, moved to Boston and started her own business. So when she feels a spark with a gorgeous neurosurgeon named Ryle Kincaid, everything in Lily?s life suddenly seems almost too good to be true. Ryle is assertive, stubborn, maybe even a little arrogant. He?s also sensitive, brilliant and has a total soft spot for Lily. And the way he looks in scrubs certainly doesn?t hurt. Lily can not get him out of her head. But Ryle?s complete aversion to relationships is disturbing. Even as Lily finds herself becoming the exception to his ?no dating? rule, she can not help but wonder what made him that way in the first place. As questions about her new relationship overwhelm her, so do thoughts of Atlas Corrigan?her first love and a link to the past she left behind. He was her kindred spirit, her protector. When Atlas suddenly reappears, everything Lily has built with Ryle is threatened. With this bold and deeply personal novel, Colleen Hoover delivers a heart-wrenching story that breaks exciting new ground for her as a writer. Combining a captivating romance with a cast of all-too-human characters, it ends with us is an unforgettable tale of love that comes at the ultimate price.",
+  "language": "English"
+},
+{
+   "url":"test",
+  "title":"test",
+  "author":"test",
+  "price":190,
+  "desc":"Discover how to conquer anxiety, self-doubt, and self-sabotage without depending on motivation or willpower. 'Don't Believe Everything You Think' uncovers the core of psychological suffering and offers insights to effortlessly shape the life you crave. Learn to detach from negativity, embrace love and joy, escape negative thought cycles, and tap into inner wisdom. The message is clear: anyone can attain peace, love, and fulfillment, irrespective of their history. It's not about rewiring your brain, but expanding your consciousness for lasting transformation. Within this book, delve into the core of emotional suffering and receive insights on effortlessly curating the life you aspire to.",
+  "language": "English"
+}
+
+
+{
+"url":"https://m.media-amazon.com/images/I/715qi-cIbML._SL1500_.jpg",
+  "title":"Don't Believe Everything You Think",
+  "author":"Joseph Nguyen",
+  "price":299,
+  "desc":"Discover how to conquer anxiety, self-doubt, and self-sabotage without depending on motivation or willpower. 'Don't Believe Everything You Think uncovers the core of psychological suffering and offers insights to effortlessly shape the life you crave. Learn to detach from negativity, embrace love and joy, escape negative thought cycles, and tap into inner wisdom. The message is clear: anyone can attain peace, love, and fulfillment, irrespective of their history. It's not about rewiring your brain, but expanding your consciousness for lasting transformation. Within this book, delve into the core of emotional suffering and receive insights on effortlessly curating the life you aspire to.",
+  "language": "English"
+}
+
+
+
+AIzaSyC1vAn8uQrbGpOZzSbo5GRQzz0PLcJ3PB4
