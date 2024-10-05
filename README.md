@@ -5,7 +5,6 @@ It offers a wide range of genres, including fiction, non-fiction, fantasy, myste
 graphic novels, allowing book lovers to discover, explore, and engage with their favorite titles.
 The web app would adjust its layout and functionality to provide an optimal user experience, regardless of the screen size.
 
-<img src=".jpg" alt="FableNest BookStore Logo" width="300"/>
 
 ## Features
 
@@ -14,9 +13,7 @@ The web app would adjust its layout and functionality to provide an optimal user
 - **Secure Payments**: Enjoy a secure checkout experience with multiple payment options.
 - **User Reviews and Ratings**: Read and leave reviews to help others find the perfect book.
 
-# Home Page
 
-![Frontend](/src/assets/Home.png)
 
 
 
