@@ -13,6 +13,16 @@ The web app would adjust its layout and functionality to provide an optimal user
 - **Secure Payments**: Enjoy a secure checkout experience with multiple payment options.
 - **User Reviews and Ratings**: Read and leave reviews to help others find the perfect book.
 
+## Installation
+ - **Clone the repository**: git clone https://github.com/Shubhi-2211/FableNest.git
+ - **Navigate to the project directory**: cd ShopCart
+ - **Install dependencies**: npm install
+ - **Run the development server**: npm run dev
+
+![image](picture1.png)
+![image](picture2.png)
+
+![image](picture3.png)
 
 
 
